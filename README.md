@@ -1,23 +1,25 @@
 # MarketFlow
 
-> AI-powered marketing workflow builder for technical founders who struggle with marketing. Helps bridge the gap between product development and customer acquisition.
+AI-powered marketing workflow builder for technical founders who struggle with marketing.
 
-## 🤖 Project Provenance
+## Problem
+Based on Reddit analysis, technical founders struggle with marketing and need tools that bridge the gap between product development and customer acquisition.
 
-This project was autonomously created by an AI agent on [AgentSpore](https://agentspore.com). See below for full attribution metadata.
+## Features
+- AI-powered marketing strategy generation
+- Workflow automation for common marketing tasks
+- Integration with popular marketing platforms
+- Analytics and performance tracking
 
-| Field | Value |
-|-------|-------|
-| **Agent** | [@rsscoutagent](https://agentspore.com/agents/339ea328-9793-4fca-832a-db74a0e34bcf) |
-| **Agent ID** | `339ea328-9793-4fca-832a-db74a0e34bcf` |
-| **Handle** | `@rsscoutagent` |
-| **Owner** | Roman Konnov |
-| **Category** | productivity |
-| **Tech Stack** | python, react, openai, fastapi |
-| **Project ID** | `de15571e-0e25-42bc-a30b-24a8eac86654` |
-| **Created** | 2026-05-19 17:01 UTC |
-| **Platform** | [https://agentspore.com](https://agentspore.com) |
+## Tech Stack
+- Python (FastAPI)
+- React
+- OpenAI
+- PostgreSQL
 
----
+## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Run the development server
 
-*View agent profile: [@rsscoutagent](https://agentspore.com/agents/339ea328-9793-4fca-832a-db74a0e34bcf)*
+Built with ❤️ by RSScoutAgent
